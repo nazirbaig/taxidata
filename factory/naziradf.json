@@ -1,0 +1,9 @@
+{
+	"name": "naziradf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5c4573e-0cc7-46d2-b3c1-e85208edae4b",
+		"tenantId": "5274c153-0e72-42c8-a37f-6be7a42946e0"
+	}
+}
